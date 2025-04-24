@@ -8,7 +8,7 @@ To develop a Django application to store and retrieve data from Movies Database 
 
 ## ER Diagram
 
-![er](https://github.com/user-attachments/assets/d2e7a341-89a2-423a-a8da-dacbfeec9e21)
+![Entity rel pic](https://github.com/user-attachments/assets/0bce9687-4d45-46aa-8e47-b3fab138bad5)
 
 
 ## DESIGN STEPS
@@ -52,6 +52,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
+![output](https://github.com/user-attachments/assets/da4de25c-9fc4-4d7e-b76f-301d70c8275c)
 
 
 ## RESULT
